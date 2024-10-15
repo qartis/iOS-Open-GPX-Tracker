@@ -12,4 +12,4 @@ workflows:
             XCODE_SCHEME: "OpenGpxTracker" # Replace with your project name
           ios_signing:
             distribution_type: app_store # or: ad_hoc | development | enterprise
-            bundle_identifier: com.example.id
+            bundle_identifier: com.qartis.opengpxtracker
